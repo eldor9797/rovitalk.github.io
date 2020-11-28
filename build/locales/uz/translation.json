@@ -1,0 +1,246 @@
+{
+  "msg": "salom",
+  "home_toolTip":{
+    "Titul":"RoviTalk – Ertakterapiya, audiokitoblar, psixologik mashqlar va ajdodlar oltin merosi."
+  },
+  "home_navbar" :{
+    "asosiy":"ASOSIY",
+    "trafiklar":"TARIFLAR",
+    "dashboard":"ERTAKTERAPIYA",
+    "audiokitoblar":"AUDIOKITOBLAR",
+    "psihologiya":"PSILOGIYA",
+    "hikmatlar":"HIKMATLAR",
+    "kozgu":"KO'ZGU"
+  },
+  "home_main_Footer":{
+    "pageTitle":"Iltimos, foydalanuvchi nomi yoki email kiriting",
+    "pageTitle2":"Foydalanuvchi nomi yoki e-mail",
+    "pageTitle3":"Yuborish"
+  },
+  "home_main_Login":{
+    "pageTitle":"Kirish",
+    "pageTitle2":"Kirish uchun login va parolni kiriting",
+    "pageTitle3":"Foydalanuvchi telefon nomeri",
+    "pageTitle4":"KODNI KIRITING",
+    "pageTitle5":"Eslab qol",
+    "pageTitle6":"Parolni unutdingizmi ?",
+    "pageTitle7":"Parolni eslolmayapsizmi ?",
+    "pageTitle8":"Biz bilan bo'ling",
+    "pageTitle9":"Ro'yxatdan o'tish"
+  },
+  "home_main_Registration":{
+    "pageTitle2":"Foydalanuvchi ismi",
+    "pageTitle4":" Foydalanuvchi familiyasi",
+    "pageTitle5":"Foydalanuvchi telefon nomeri",
+    "pageTitle6":"KODNI KIRITING",
+    "pageTitle7":"Rovitalkdan sotib olish va ishlash",
+    "title":"Kirish",
+    "pageTitle9":"Ro'yxatdan o'tish"
+  },
+  "home_navbar_button":{
+    "title":"Kirish"
+  },
+  "home_main_Slider":{
+    "slideTitul": "Hotirjamlik...",
+      "slideSubtitul": "Siz ham sinab ko'rasizmi?",
+      "slideUnderSubtitul": "Oiladagi va ishdagi hotirjamlik - eng katta baxt...",
+      "slideBtnText": "Sinab ko'ring",
+      "slideTitul2": "Buyuk ajdodlarimiz merosi...",
+      "slideSubtitul2": "Endilikda foydalanishimiz uchun eng qulay usulda",
+      "slideUnderSubtitul2":
+        "Hazrati Alisher Navoiy g'azallari, Amir Temur tuzuklari, Shox Mashrab g'azallari endi faqat siz uchun. Bu xazinalardan bahramand bo'ling.",
+      "slideBtnText2": "Xazina",
+      "slideTitul3": "Uyqudagi qo'rquvlarga",
+      "slideSubtitul3": "yechim topish endi juda oson.",
+      "slideUnderSubtitul3":
+        "Farzandingizga davolovchi ertaklarni qo'yib berdingizmi? Siz natijaga hayron qolasiz.",
+      "slideBtnText3": "Batafsil",
+      "slideTitul4": "O'tkan kunlar",
+      "slideSubtitul4": "Abdulla Qodiriy xazinasidan...",
+      "slideUnderSubtitul4":
+        "Ajdodlarimizdan qolgan xazinalardan foydalanish imkoniyati endi biz uchun juda qulay. Siz O'tkan Kunlar kitobini endi audio formatda eshitishingiz mumkin.",
+      "slideBtnText4": "Eshitib ko'rish",
+      "slideTitul5": "Hammasi oson...",
+      "slideSubtitul5": "Nima sababdanligini bilasizmi?",
+      "slideUnderSubtitul5":
+        "Qalbi hotirjam bo'lgan har bir inson uchun har qanday muammo oddiy narsaga aylanadi.",
+      "slideBtnText5": "Sinab ko'rish",
+      "slideTitul6": "Farzandingiz asabiymi?",
+      "slideSubtitul6": "shunchaki ertak qo'yib bering",
+      "slideUnderSubtitul6":
+        "Ishoning, ertak tinglab, u oʼz xatti-harakatlarini tushunadi va nima qilsa toʼgʼri boʼlishini anglab yetadi.",
+      "slideBtnText6": "Ertaklar",
+      "slideTitul7": "Al-Kimyogar",
+      "slideSubtitul7": "Jaxon adabiyoti durdonalaridan...",
+      "slideUnderSubtitul7":
+        "“Al-kimyogar” romani braziliyalik yozuvchi Paulo Koelo tomonidan yozilgan dunyoga mashxur asarlaridan biri hisoblanadi. Siz ham eshitib ko'ring.",
+      "slideBtnText7": "Eshitib ko'rish",
+      "slideTitul8": "Donishmandlar hikmati...",
+      "slideSubtitul8": "O'zini tanimoq istagan ko'ngillar uchun...",
+      "slideUnderSubtitul8":
+        "Ilm ummoniga bir bor sho'ng'igan inson, undan chiqishni hech qachon hayoliga keltirmas ekan. Siz ham bir sho'ng'ib ko'ring...",
+      "slideBtnText8": "Hikmatlar"
+  },
+  "home_card_one":{
+      "cardTitul":"ERTAKLAR",
+      "cardSubtitul":"Farzandingizga eng qulay va eng oson davolash uslubini taqdim eting. Birgalikda o'zingiz ham ko'p narsani anglaysiz.",
+      "cardTitul2":"MEDITATSIYALAR",
+      "cardSubtitul2":"Har qanday kasallik avvalo qalbdan boshlanadi. Meditatsiyalar esa anashu qalbdagi kasalliklarni yechishda yordam beradi.",
+      "cardTitul3":"AUDIOKITOBLAR",
+      "cardSubtitul3":"Ko'pchiligimizda o'tirib kitob o'qishga vaqt yo'q. Bu muammoga yechimni qabul qiling. 200 dan ortiq audiokitoblar sizga muntazir.",
+      "cardTitul4":"DONISHMANDLAR",
+      "cardSubtitul4":"Ajdodlarimiz qoldirib ketgan bebaxo xikmatlar edni audio formatda. Ularning xazinalariga endi bizda ham yo'l bor."
+  },
+  "home_card_two":{
+    "Titul":"Davolovchi ertaklar",
+    "Titul2":"Bu juda sodda tilda yoziladigan psihologik ertaklar hisoblanadi. Uni eshitgan yoki o’qigan har qanday bola o’zidagi mavjud mummoni anglaydi va undan chiqish yo’li qanday ekanligini tushunadi. Ertakterapiya hatto eng kuchli nevroz va fobiyalarda ham juda ham ajoyib ijobiy natijalar ko’rsatadi. Bunday ertaklar yordamida qisqa vaqt ichida bolada kuzatilayotgan har qanday muammoni yechimini topish mumkin.",
+    "Titul3":"Sizning farzandlaringizni salomatligi, hulq-atvori, xarakteri, ba’zi tushunchalari o’ylantirayotgan bo’lsa, hech ikkilanmay ertakterapiyaga murojaat eting. Xotirjam bo’ling, natijasi sizni judayam quvontiradi.",
+    "Titul4":"Ertaklar haqida to’liq ma’lumot"
+  },
+  "home_card_three":{
+    "Titul":"Hozirda bizda 52 ta ertak mavjud bo'lib, sizlarga ba'zilarini eshitib ko'rishingiz uchun taqdim etamiz.",
+    "cardTitul1":"“Mening do’stim ajdar” ertagi, tunda qo’rqib uyg’onib ketadigan bolajonlarda hotirjam uyquni ta’minlash uchun juda foydali.",
+    "cardTitul2":"Bolalarda uchraydigan barmoq so’rish va tirnoq tishlash odatlarini yo’q qilish uchun, “Mushukvoylar” ertagi juda foydali.",
+    "cardTitul3":"“Askar Shaxzoda”. Bu ertak boladagi tartib, kiyinish, joyni yig’ish va boshqa odob qoidalari rivojlanishiga sababchi bo’ladi.",
+    "cardTitul4":"Bazida farzandlarimiz kunduzi ham qo’rquvni his qilishadi. “Mitti Mahluqchalar” ertagi orqali bolalar yechimni o’zlari topadi.",
+    "musicTitul":"Ertaklarni eshitish"
+  },
+  "home_card_four":{
+    "nameTitul":"Meditatsiyalar",
+    "Titul":"Meditatsiyalarni foydasi nima? ",
+    "pageTitul":"Meditatsiya – bu uygʼoqliklikni oshirish uchun faol ong mashgʼulotidir. Turli meditatsiya usullarida bu jarayonga har xil yondashiladi. Аgar meditatsiyani xar qanday kasallikga qarshi moʼjizaviy dori deb oʼylasangiz, adashasiz. Аmmo u kasalliklar sabablari bilan aʼlo darajada kurashuvchi vositadir. Buni faqat amalda sinab ko’rib bilishingiz mumkin. Tayyormisiz?",
+    "buttonTitul":"Meditatsiyalar haqida to’liq ma’lumot ",
+    "musicTitul":"Ertaklarni eshitish"
+  },
+  "home_card_five":{
+    "nameTitul":"AUDIOKITOBLAR",
+    "pageTitul":"Statistikaga qaraydigan bo’lsak “Audiokitoblar” degan so’rovni internetda ko’p berilishi, insonlarni o’qishdan ko’ra eshitishga qiziqishi ko’proq ortib borayotganini ko’rsatadi. Har oy deyarli 1 million odam online audiokitoblar izlash bilan ovvora. O’ylaymanki bularning barchasi bejizga emas, chunki hozirgi tezlik bilan rivojlanayotgan davr va zamonda insonlarda o’tirib kitob o’qishga vaqt juda kam. Audiokitoblar esa, aynan manashu muammolarni barchasiga bittada yechim topa oladi.",
+    "pageTitle2":"Yo'lda eshitish imkoniyati",
+    "pageTitle3":"Mashinada, avtobusda yoki poezdda ketayotgan vaqtingizda, audiokitoblar nafaqat yo’lingizni yaqin qiladi, baki siz yangi bilimlar bilan ichki olamingizni boyitib borasiz.",
+    "pageTitle4":"Tunda ham sizga hamrox",
+    "pageTitle5":"Yoshlikdan ko’pchilikni orzusi bor, “Qani edi kitobni boshimga qo’yib uhlab qolsamu, ertalab uyg’onganimda kitobni o’qib o’rganib bo’lgan bo’lsam. Endi bu haqiqat. Audiokitoblar, aynan manashu imkoniyatni sizga taqdim etadi.",
+    "pageTitle6":"Ish davomida zerikishga hojat yo'q",
+    "pageTitle7":"Ko’pchilik insonlar uy ishlarini va hatto ko’chada yolg’iz sayr qilishni yoqtirishmaydi. Shunday vaqtlarni audiokitoblar tengsiz hamroxga aylanadi.",
+    "pageTitle8":"Audiokitoblar haqida to’liq ma’lumot",
+    "pageTitle9":"Al-kimyogar",
+    "pageTitle":"Eng yaxshi davo",
+    "musicTitul":"Ertaklarni eshitish"
+  },
+  "home_card_six":{
+    "nameTitul":"Buyuk ajdodlar merosi",
+    "pageTitul":"Hozirgi kunda bizga ta’lim tarbiya berishga urinayotgan evropaliklar ilmni bizni ajdodlarimizdan o’rganganliklari hech kimga sir emas.",
+    "pageTitul2":"G’azal mulkining sultoni Hazrati Alisher Navoiy bobomiz, yulduzlar jadvali sohibi Mirzo Ulug’bek bobomiz, sherlari tillarda dillarda doston Shox Mashrab Hazratlari, tabobat fanining asoschisi Abu Ali Ibn Sino bobomiz va buyuk sarkarda Amir Temur bobomiz tomonidan qoldirilgan merosni endi o’zimiz mukammal o’rganishni niyat qildik hamda sizlarga ham ilindik",
+    "pageTitul3":"Zero millatimizni yuksaltirish uchun faqat o’zimiz o’rganganimiz kifoya emas, balki barcha millatdoshlarimiz shu xazinadan baxramand bo’lishlari biz uchun yoqimliroq.",
+    "buttonTitul":"Meditatsiyalar haqida to’liq ma’lumot",
+    "musicTitul":"Ertaklarni eshitish"
+  },
+  "home_card_Counter":{
+    "Titul":"Ertaklar",
+    "Titul2":"Audiokitoblar",
+    "Titul3":"Meditatsiyalar",
+    "Titul4":"Hikmatlar"
+  },
+  "home_card_Partners":{
+    "Titul":"Hamkorlar",
+    "Titul2":"Bular nafaqat hamkorlarimiz, baki yaqin do'stlarimiz..."
+  },
+  "home_card_Reg":{
+    "Titul":"Ro'yxatdan o'ting",
+    "Titul2":"Dasturimiz va undagi ma’lumotlar hamda narxlaridan habardor bo’lishni istasangiz, shunchaki ro’yhatdan o’ting. Shunda siz uchun yanada kengroq imkoniyatlar ochiladi.",
+    "Titul3":"Ro'yxatdan o'tish"
+  },
+  "home_card_footer":{
+    "Titul":"Rovitalk. Barcha huquqlar ximoyalangan",
+    "Titul2":"Maxfiylik qoidalari",
+    "Titul3":"Foydalanish qoidalari",
+    "Titul4":"Javobgarlikni rad etish"
+  },
+  "home_card_Ertak":{
+    "head_Titul":"Ertakterapiya",
+    "body_Titul":"Ertaklar farzandlarimizga qanday ta'sir ko'rsatadi?",
+    "page_Titul":"Bolalar juda qiziquvchan bo’lishadi. Atrofdagi voqea hodisalarning sababini, natijasini bilgisi keladi, biror bir holat yuzasidan munosabatingizga qiziqadi, ba’zan shunaqangi ko’p savol berishadiki, qay biriga javob berishni bilmay qolasan kishi. Bunday paytda bolaga to’g’ri ma’lumot berish juda muhim! Ammo biz, kattalar doim ham farzandimizning yonida bo’la olmaymiz. Bolani esa kichkinaligidan mustaqil qaror qabul qilishi, fikr bildirishiga o’rgatib borish lozim.",
+    "page_Titul2":"Ertaklar esa bolada ana shu hususiyatlarni rivojlantirishga yordam beradi. Ayniqsa, bugun dunyo psihologlari amalyotida keng qo’llanilayotgan ertakterapiya nafaqat kerakli ma’lumotni yetkazadi, balki davolovchi ta’sirga ega ekanligi bilan ham yuqori bahonalmoqda.",
+    "body_Titul2":"Ho'sh, ertakterapiya nima o'zi",
+    "page_Titul3":"Bu ertaklar yordamida davolash uslubi hisoblanadi. U nafaqat kasalliklar, balki fobiyalar, salbiy odatlar, turli hil tushunchalarni o’zgartirishda ham yahshi ta’sir ko’rsatadi.",
+    "page_Title4":"Bu juda sodda tilda yozilgan psihologik ertaklar hisoblanadi. Uni eshitgan yoki o’qigan har qanday bola o’zidagi mavjud mummoni anglaydi va undan chiqish yo’li qanday ekanligini tushunadi. Ertakterapiya hatto eng kuchli nevroz va fobiyalarda ham juda ham ajoyib, ijobiy natijalar ko’rsatadi. Bunday ertaklar yordamida qisqa vaqt ichida bolada kuzatilayotgan har qanday muammoni yechimini topish mumkin.",
+    "page_Title5":"Sizning farzandlaringizni salomatligi, hulq-atvori, xarakteri, ba’zi tushunchalari o’ylantirayotgan bo’lsa, hech ikkilanmay ertakterapiyaga murojaat eting. Xotirjam bo’ling, natijasi sizni judayam quvontiradi.",
+    "body_Titul3":"Xarxashalarga chek qo'yish vaqti keldi...",
+    "page_Title6":"Biz, ota-onalarning vazifamiz farzandlarimizni oʼqitish, ularga tarbiya berish bilangina kifoyalanmaydi. Bolaga yaxshi xulq-atvor, goʼzal insoniy fazilatlarni singdirish, qiziqishlariga koʼra toʼgʼri yoʼnaltirish va uni harakatga undashga ham biz masʼulmiz. Ammo bu jarayonlarda bolaga baqirish, urishish, jazolash, turli ta’qiqlar qoʼyish va shu kabi boshqa keraksiz choralarni qoʼllab boʼlmaydi. Maʼlumotni bolaga tushunarli tarzda yetkazish lozim, masalan, ertakterapiya yordamida.",
+    "body_Titul4":"Ertakterapiyaning davolovchi ta'siri rostmi?",
+    "page_Title7":"Ertakterapiya – bu psixoterapiya yoʼnalishi boʼlib, u xulq-atvor reaktsiyasini tuzatish hamda boshqarib boʼlmaydigan qoʼrquvni oʼrganish maqsadida tavsiflanadigan psixologik aralashuvdir. Ertakterapiyaning afzalligi, u psixoterapevt ishtirokisiz, asosiy usullarni oʼzlashtirgan holda bolaning xatti-harakatlariga bosim oʼtkazmay taʼsir koʼrsatish imkonini beradi.",
+    "page_Title8":"Sehrli taʼsirga ega ertaklar quyidagi muammolarni bartaraf etadi:",
+    "page_Title9":"Bola xarxashalari – beparvolik, aldamchilik, dangasalik, agressiya, gigiyena qoidalariga rioya etish, bogʼchaga borish, kun tartibiga amal qilishni istmaslik.",
+    "page_Title10":"Fobiyalar – ota-onadan ajralib qolish, qorong’ulik, hayvonlar, shifokordan qoʼrqish.",
+    "page_Title11":"Kechinmalar – boshqa bolalar bilan chiqisha olmaslik, yaqin odamini yoʼqotish, yangi oila aʼzosining paydo boʼlishi.",
+    "page_Title12":"Boladagi qoʼrquv, kuchli xavotir va ichki kechinmalarni tushunish qiyin boʼlganida ota-onalarga mutaxassis koʼmagi zarur boʼlishi mumkin. Bunday hamkorlik faqat alomatlar bilangina kurashmay, balki muammoning asl sababini topish va uni bartaraf etish imkonini beradi.",
+    "page_Title13":"Ertaklar bolaga qanday yordam beradi?",
+    "page_Title14":"Biz ertaklarni sehrli deyapmiz. Xoʼsh, uning sehri nimada? Bolaga qanday taʼsir koʼrsatadi? Ertakterapiya bolajonlar uchun zerikarli nasihatlaru turli ko’rsatmalardan koʼra qiziqarliroq va tushunarliroq. U bola ichki dunyosiga kirish va unga taʼsir koʼrsatish, vaziyatni toʼgʼrilashga yordam beradi. Shuningdek, bunday holat faqatgina u bilan sodir boʼlmayotganini tushuntirishga koʼmaklashadi.",
+    "page_Title15":"Reallik va ertaknamo voqealarni tushunish chegarasi bola ongostida yuvilib ketgani bois u ertak qahramonlari uchun chin dildan qaygʼuradi, ularning kechinmalarini his etadi, boshdan oʼtkazadi, yuragiga yaqin olib, tahlil qiladi.",
+    "page_Title16":"muammo",
+    "page_Title17":"Farzandingiz injiqlik qilyaptimi? Yoki muammolari bormi?",
+    "page_Title18":"ertakterapiya",
+    "page_Title19":"FARZANDINGIZGA DAVOLOCHI ERTAKLARNI QO’YIB BERING.",
+    "page_Title20":"natija",
+    "page_Title21":"BOLALAR O’ZIDAGI ASABIYLIKKA SABABCHI BO’LGAN MUAMMONI HAL ETADI",
+    "page_Title22":"Bolalar yoshiga ko'ra ertakterpiya turlari",
+    "page_Title23":"Ikki yoshga toʼlmagan bolakay hali sehrli ertaklar maʼnosini tahlil qilolmaydi. U ongostiga yaxshi xulq-atvor, yuzaga kelishi mumkin boʼlgan xavflar toʼgʼrisidagi maʼlumotlarni joylashi kerak boʼlgan sabab-oqibatlarni idrok etishga qodir emas. Ikki yoshdan keyin esa oddiy terapevtik ertaklardan foydalansa boʼladi. Ertak injiq, hadeb xarxasha qiladigan, uxlashni istamaydigan bolani tinchlantiradi, mustaqil ovqatlanish koʼnikmalarini paydo qiladi va xotirasini rivojlantiradi.",
+    "page_Title24":"Uch yoshdan keyin ertakterapiyaga koʼproq murojaat etgan yaxshi. Ayniqsa, odamlarning jonivorlarga munosabati haqidagi ertaklar bolalar uchun gʼoyat foydali. Bu yoshda aksariyat bolakaylar oʼzlarini jonivorlarga oʼxshatishadi va ularning xatti-harakatlarini oʼzlariniki bilan solishtirishadi.",
+    "page_Title25":"Farzandingiz maktab yoshida boʼlsa, ichki dunyosini tushunish, yaqinlari va doʼstlari bilan muammolarni hal etishga yordam beruvchi masal va kichik hikoyalarni qoʼllab koʼrishingiz mumkin. Shuningdek, ertakterapiyada qissa va she’rlardan ham foydalaniladi. Bunday hikoyalar hazil va istehzolarga murojaat etilishi bilan ham ajoyib ham qiziqarli.",
+    "page_Title26":"Turli xil komplekslari bor, oʼziga bahosi past, ota-ona eʼtibori, mehridan mahrum boʼlgan maktabgacha va yuqori sinf oʼquvchilariga moʼjizalar, mistik hodisalar va gʼayrioddiy oʼzgarishlar yuz beradigan sehrli hikoyalar oʼqish tavsiya etiladi. Ularning yordami bilan bola ongosti har bir hikoya, ertakda tasvirlangan hayotiy donolik bilan toʼlib boradi.",
+    "page_Title27":"Ertakterapiya bilan qanday natijalarga erishish mumkin?",
+    "page_Title28":"Mazkur usulning afzalligi shundaki, farzandingiz bilan shugʼullanish uchun sizdan maxsus bilim talab etilmaydi. Siz faqatgina kerakli ertakni dasturdan farzandingizga qo’yib bersangiz bas. Ammo shunday boʼlsa-da, ertakterapiya yordamida qaysi muammoni hal etish va qanday natijaga ega boʼlishni istayotganingizni aniq bilishingiz kerak. Agar bu borada bir qarorga kela olmayotgan boʼlsangiz diqqat qiling. Quyida ertakterapiya bolaga qanday yordam berishiga toʼxtalamiz:",
+    "page_Title29":"Bolakayni qorongʼilik , balandlik , suvda suzish , shifokor koʼrigiga borish kabi qoʼrquvlardan saqlash.",
+    "page_Title30":"Keyinchalik bolaning kundalik hayotini yorqin va qiziqarli mashgʼulotlar bilan toʼldiradigan ijodiy qobiliyatni rivojlantirish.",
+    "page_Title31":"Bolaga nima yaxshi-yu nima yomonligini oʼrgatish. Masalan, oʼzidan kichkinalarni xafa qilmaslik, birovning oʼyinchoqlarini soʼramasdan olib boʼlmasligi, yolgʼon gapirmaslik.",
+    "page_Title32":"Ovqatlanish payti oʼzini yaxshi tutmaslik, uy devorlariga chizish, oʼrnini hoʼllab qoʼyish kabi fiziologik muammolarni bartaraf etish.",
+    "page_Title33":"Yaqin kishisi, oila aʼzolaridan biri yoki uy hayvonidan ajralib qolish bilan bogʼliq kechinmalarning yechimini topish.",
+    "page_Title34":"Agressiya va giperfaollikni yengish.",
+    "page_Title35":"Bolaga adolatsizdek koʼringan voqea-hodisalarni toʼgʼri ifodalash. Masalan, doʼstiga ota-onasi kuchukcha olib berishdi, ammo nega unga ham olib berishmaydi. Bolani katta hayotga tayyorlash.",
+    "page_Title36":"Bolani katta hayotga tayyorlash. Toʼgʼri va mustaqil qaror qabul qilishni oʼrgatish.",
+    "page_Title37":"Davolovchi ertaklarni ishlatish uchun tavsiyalar",
+    "page_Title38":"Eng muhimi, siz o’z farzandingiz muammosini aniq bilishingiz lozim. Bunda ertak qahramoni farzandingizga juda oʼxshash boʼlib, xuddi uningdek quloqsiz, shoshqaloq yoki oʼylamay ish qiladigan bola boʼlishi mumkin. Misol uchun, uxlashga yotishdan oldin tishlarini tozalashni xohlamaydigan bolaga hecham oʼziga eʼtibor berishni istamaydigan, kir-chir yuradigan erinchoq qizcha haqida ertak aytib berish mumkin. Qizaloqning kir-chir yurishini bilgan Qorbobo Yangi yilda unga sovgʼa bermaydi. Bolaga ertakni qiziqarli tarzda soʼzlab berish bizning dasturimiz zimmasiga yuklatilgan. Sizni bu ma’suliyatdan ozod qilganmiz. Ertak tugagandan keyin, undagi qahramonlar xatti-harakatlarini ham birga muhokama qilish, gaplashish maqsadga muvofiq. Shunda bola ertakning asl mazmun-mohiyatini tushunadi.",
+    "page_Title39":"Xulosa qilib aytganda ertakterapiya tajriba almashish va nima yomon-u, nima yaxshi ekanini tushunishning ideal usulidir. Ibratli hikoyalar yordamida boladagi agressiya, fobiyalar va nutq muammolarini bartaraf etish mumkin. Ammo ertak terapiyani boshlashdan oldin bola haqiqiy dunyoni xayoldagisidan ajrata oladimi, yoʼqmi bilish zarur. Buning uchun ertak terapiyadan oldin, farzandingiz bilan ozroq suhbatlashing. Aynan mazkur usul bolada oʼziga boʼlgan ishonchni oshirish, jamiyatda oʼzini erkin, dadil tutishi va sogʼlom, chiroyli kelajak barpo etishida yordam beradi."
+  },
+  "home_card_Meditatsiya":{
+    "page_Title":"Meditatsiyalar haqida",
+    "page_Title1":"Meditatsiyani oʼrganishni istovchilar soni yildan-yilga ortib borayotgani rost.",
+    "page_Title2":"Kundan-kun uning foydasi haqida yangidan-yangi maʼlumotlar taqdim etilyaptiki, shubhasiz kishi eʼtiborini jalb qilmay qolmaydi.",
+    "page_Title3":"Shunisi qiziqki, meditatsiyaning qadimdan maʼlum boʼlgan foydasi faqat bugunga kelibgina MRT va KT tekshiruvlari yordamida oʼz isbotini topdi. Ha, hatto olimlar ham meditatsiya kuchini tan olishdi.",
+    "page_Title4":"Balki siz bu haqida bilmassiz, ammo meditatsiya nevrologiya sohasida katta imkoniyatlarga ega. Ushbu video orqali soʼnggi yillardagi eng shov-shuvli ilmiy tadqiqotlar bilan tanishasiz. Meditatsiya insonning eng muhim aʼzosi hisoblangan – bosh miyada juda katta oʼzgarishlarni amalga oshirishga qodir kuch va mazkur videoni tomosha qilib, bunga oʼzingiz ham ishonch hosil qilasiz.",
+    "page_Title5":"Meditatsiya bosh miya qarishini sekinlashtiradi.",
+    "page_Title6":"Birinchidan, meditatsiya bosh miya qarishini sekinlashtiradi. Kaliforniya universiteti mutaxassislari tomonidan olib borilgan ilmiy tadqiqot shuni koʼrsatdiki",
+    "page_Title7":"Shugʼullanganlar",
+    "page_Title8":"Yoshga doir oʼzgarishlarda meditatsiya bilan shugʼullanganlarning bosh miyasi mazkur usul haqida hech qanday maʼlumotga ega boʼlmagan odamlarnikiga qaraganda yaxshiroq saqlanar ekan.",
+    "page_Title9":"Shugʼullanmaganlar",
+    "page_Title10":"Ishlonasizmi-yoʼqmi, ammo oʼrtacha 20 yil davomida muntazam meditatsiya bilan shugʼullanib kelgan odam bosh miyasining barcha qismlarida kulrang modda koʼp miqdorda ekanligi aniqlandi.",
+    "page_Title11":"20 yil kulrang modda miqdori koʼpligi aniqlandi",
+    "page_Title12":"Toʼgʼri, keksayganda hatto mediatorlar ham bosh miya kulrang moddasining maʼlum qismini yoʼqotadi. Аmmo bu meditatsiya bilan shugʼullanmagan odamlarnikiga qaraganda ancha kam.",
+    "page_Title13":"Kulrang moddaning maʼlum bir qismi yoʼqotiladi",
+    "page_Title14":"Olimlarni hayron qoldirgani, meditatsiya bosh miyaning faqat maʼlum bir qismigagina emas, balki uning barcha sohalariga ijobiy taʼsir koʼrsatar ekan.",
+    "page_Title15":"Meditatsiya bosh miya markazida «men» faolligini kamaytiradi",
+    "page_Title16":"Ikkinchidan, meditatsiya bosh miya markazidagi «men»ning faollik darajasini kamaytiradi.",
+    "page_Title17":"Passiv ishlash tizimi",
+    "page_Title18":"Bu borada Yelьsk universitetida oʼtkazilgan ilmiy tadqiqot xulosasi shunday deydi: ongli meditatsiya miya passiv rejim tarmogʼi faolligini kamaytiradi.",
+    "page_Title19":"Diqqati oʼzida boʼladi",
+    "page_Title20":"Yaʼni, miyadagi fikrlarni chalgʼitish uchun masʼul tizim diqqati oʼziga qaratiladi. Odatda, konkret narsa haqida oʼylamaganimizda miyaning bu tizimi faol boʼladi va aqlimiz oʼy-xayollar orasiga tushib qolib, chalgʼiydi. Аqlning bu tariqa sarson boʼlishi esa afsuski, xursandchilik olib kelmaydi.",
+    "page_Title21":"Oʼtmish va kelajak haqida xavotir",
+    "page_Title22":"Buni ustiga oʼtmish va kelajak haqidagi xavotirli oʼylar paydo boʼladi. Bizning asosiy maqsadimiz esa mana shu xavotirli oʼy-fikrlarni kamaytirishdir, shunday emasmi?",
+    "page_Title23":"Bir qancha ilmiy tadqiqotlar meditatsiyaning bosh miya passiv rejim tizimiga tinchlantiruvchi taʼsir koʼrsatishini tasdiqladi.",
+    "page_Title24":"Depressiyada meditatsiyaning foydasi antidepressantlarga teng​",
+    "page_Title25":"Bu maʼlumotdan hayron boʼlishingiz aniq: depressiyada meditatsiyaning foydasi antidepressantlarga taqqoslanadi. Jon Xopkins universiteti tomonidan oʼtkazilgan tadqiqot ongli meditatsiya va uning depressiya simptomlari boʼlgan xavotir va ogʼriqni kamaytirishdagi foydasi oʼrtasidagi bogʼliqlikni oʼrgandi. Sizningcha natija qanday boʼldi? Tadqiqot xulosasi meditatsiya 0,3 foiz oʼrtacha taʼsirga ega ekanini koʼrsatdi. Аgar siz bu natijani juda oddiy deb oʼylasangiz, antidepressantlarning taʼsiri ham 0,3 foiz ekanini bilib qoʼyganingiz maʼqul.",
+    "page_Title26":"Meditatsiya bosh miyani faol mashq qildirishdir. Аmmo koʼpchilik, meditatsiya bu shunchaki oʼtirgan holatda hech nima qilmaslik deb, oʼylaydi. Аslida esa bunday emas.",
+    "page_Title27":"Meditatsiya",
+    "page_Title28":" – bu uygʼokliklikni oshirish uchun faol ong mashgʼulotidir. Turli meditatsiya usullarida bu jarayonga har xil yondashiladi.Аgar meditatsiyani depressiyaga qarshi moʼʼjizaviy dori deb oʼylasangiz, adashasiz. Аmmo u depressiya alomatlari bilan aʼlo darajada kurashuvchi vositadir.",
+    "page_Title29":"Meditatsiya bosh miyaning asosiy sohalarida katta oʼzgarishlarni paydo qiladi",
+    "page_Title30":"Shuningdek, meditatsiya bosh miyaning asosiy sohalarida katta oʼzgarishlarni paydo qiladi. Garvard mutaxassislari Sara Lazer va Yoka Mone ongli meditatsiya bosh miya tuzilishini oʼzgartirishi mumkinligini isbotlashdi.",
+    "page_Title31":"8 haftalik amaliyot",
+    "page_Title32":"Stressni kamaytirishga qaratilgan sakkiz haftalik ongli meditatsiyada buni qarangki, bilim olish va xotirani nazorat qiluvchi gipotompning kortikal qalinligi oshgani aniqlandi. Shuningdek, hissiyotlarni nazorat qiluvchi hamda oʼz «men»ini shakllantirishdagi bosh miyaning ayrim qismlarida ham ijobiy oʼzgarishlar boʼldi.",
+    "page_Title33":"Hujayralar kichrayishi",
+    "page_Title34":"Bundan tashqari qoʼrquv, xavotir va stress uchun javobgar bosh miyaning bodomsimon bezida hujayralar kichrayishi ham kuzatildi. Va bu natijalar ishtirokchilarning oʼz hisobotlarida qayd etildi. Bundan xulosa qilish mumkinki, meditatsiya nafaqat miyani oʼzgartiradi, balki idrok etish va his-tuygʼularga ham taʼsir koʼrsatadi.",
+    "page_Title35":"Meditatsiya bilan shugʼullanilsa diqqatni jamlash va xotira imkoniyatlari yaxshilanadi",
+    "page_Title36":"Аtigi bir necha kun meditatsiya bilan shugʼullanilsa diqqatni jamlash va xotira imkoniyatlari yaxshilanadi va bu ayni haqiqat. Diqqatni jamlay olmaslik nafaqat bolalar balki yuzlab kattalarning ham muammosidir.",
+    "page_Title37":"Yaqinda olimlar tomonidan oʼtkazilgan ilmiy tadqiqot shuni koʼrsatdiki, bir necha hafta davomida meditatsiya bilan shugʼullanish diqqatni jamlash va xotira yaxshilanishiga yordam berar ekan. Mazkur natijalar ogʼzaki mantiqiy test savollariga javob berish orqali aniqlandi. Ballarning oshib borishi 16 foizli ekvivalentda baholandi. Bilasiz, meditatsiyaning asosiy maqsadlaridan biri diqqatni jamlashni oʼrganish, shunday ekan meditatsiya odamning kognitiv bilim va malakasini oshirishda ham yordam berishi aniq.",
+    "page_Title38":"– bu panatseya emas. Аmmo shunisi aniqki, muntazam shugʼullanish shubhasiz yaxshi natija beradi.",
+    "page_Title39":"Noxush oʼy-xayollardan qutilishni, sogʼlom, baxtiyor hayot kechirishni istasangiz ertalab yoki kechqurun meditatsiya uchun vaqt ajrating va uning foydasini oʼzingizda his eting."
+  }
+}
